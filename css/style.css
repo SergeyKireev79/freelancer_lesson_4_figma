@@ -1,0 +1,27 @@
+/* &display=swap); */
+
+@import url(https://fonts.googleapis.com/css?family=Lato:regular,700,900&display=swap);
+
+
+body{
+   font-family: lato;
+   font-style: normal;
+}
+.topic {
+   font-weight: 900;
+   font-size: 46px;
+   line-height: 130%;
+   color: #1E212C
+}
+.text1, .text3 {
+   font-weight: 700;
+   font-size: 20px;
+   line-height: 150%;
+   color: #1E212C;
+}
+.text2, .text4, .text5, .list {
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 160%;
+   color: #424551;
+}
